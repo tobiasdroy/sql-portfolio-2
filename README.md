@@ -2,7 +2,7 @@
 
 ## About this project
 
-A follow-up to [SQL Portfolio 1](#), moving from single-table reporting questions ("what's biggest") to questions that need row-level comparison within a group and multi-step logic ("who matters, and why"). Each query builds on the last: `CASE WHEN` and `HAVING` first, then date functions, then CTEs to chain steps together, then window functions to compare individual customers against their peers without collapsing the data. The final query combines all of it into one piece of customer-behaviour analysis.
+A follow-up to [SQL Portfolio 1](https://github.com/tobiasdroy/sql-portfolio-1), moving from single-table reporting questions ("what's biggest") to questions that need row-level comparison within a group and multi-step logic ("who matters, and why"). Each query builds on the last: `CASE WHEN` and `HAVING` first, then date functions, then CTEs to chain steps together, then window functions to compare individual customers against their peers without collapsing the data. The final query combines all of it into one piece of customer-behaviour analysis.
 
 ## Tools used
 
